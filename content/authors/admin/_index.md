@@ -13,7 +13,7 @@ social:
   - display:
       header: false
     icon_pack: ai
-    icon: CV
+    icon: cv
     link: https://aochen.netlify.app/uploads/aochen_cv.pdf
 organizations:
   - name: ETH Zurich
