@@ -1,6 +1,6 @@
 ---
 title: Ao Chen
-role: MSc studying neural network quantum state
+role: Master student
 bio: ""
 interests: []
 social:
