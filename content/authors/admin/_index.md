@@ -6,7 +6,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: aochen@student.ethz.ch
+    link: mailto:aochen@student.ethz.ch
   - icon: github
     icon_pack: fab
     link: https://github.com/ChenAo-Phys
@@ -25,6 +25,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Ao Chen is a master student in ETH Zurich studying the application of the artificial neural network in quantum many-body systems.
+Ao Chen is a master student in ETH Zurich studying the application of the artificial neural network in quantum many-body systems. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AoChen_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AoChen_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
