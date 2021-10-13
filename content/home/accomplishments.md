@@ -27,9 +27,9 @@ item:
   date_end: ""
   date_start: "2021-01-25"
   description: ""
-  organization: Coursera
+  organization: ETH Zurich
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: ETH Scholarship for international students
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
