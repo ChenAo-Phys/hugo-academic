@@ -31,14 +31,14 @@ item:
   organization_url: https://ethz.ch/en.html
   title: ETH Scholarship for international students
   url: https://ethz.ch/students/en/studies/financial/scholarships.html
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date_start: "2017-10-01"
+  description: ""
+  organization: Fudan University
+  organization_url: https://www.fudan.edu.cn/en/
+  title: Chinese National Scholarship
+  url: ""
 
 design:
   columns: '2' 
