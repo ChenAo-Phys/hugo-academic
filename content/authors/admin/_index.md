@@ -30,6 +30,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Ao Chen is a master student in ETH Zurich studying the application of the artificial neural network in quantum many-body systems. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/aochen_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+Ao Chen is a master student in ETH Zurich studying the application of the artificial neural network in quantum many-body systems. His work focuses on solving the ground state of quantum many-body problem using the neural network quantum state (NQS). He is also interested in the related fields including the quantum dynamics and quantum state tomography based on various computational methods.
