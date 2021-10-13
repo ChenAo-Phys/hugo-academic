@@ -4,7 +4,7 @@ date_format: Jan 2006
 item:
   - certificate_url: ""
     date_end: ""
-    date_start: 2021-08
+    date_start: "2021-08"
     description: ""
     organization: ""
     organization_url: ""
@@ -12,7 +12,7 @@ item:
     url: https://ethz.ch/students/en/studies/financial/scholarships.html
   - certificate_url: ""
     date_end: ""
-    date_start: 2017-10
+    date_start: "2017-10"
     description: ""
     organization: ""
     organization_url: ""
@@ -26,4 +26,3 @@ subtitle: null
 design:
   columns: "2"
 ---
-000
