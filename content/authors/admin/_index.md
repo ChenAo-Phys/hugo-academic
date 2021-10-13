@@ -22,7 +22,7 @@ education:
   courses:
     - course: MSc in Physics (in process)
       institution: ETH Zurich
-      year: 2022
+      year: ""
     - course: BSc in Physics
       institution: Fudan University
       year: 2019
