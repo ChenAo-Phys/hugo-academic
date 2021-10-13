@@ -21,8 +21,7 @@ organizations:
 education:
   courses:
     - course: MSc in Physics (in process)
-      institution: ETH Zurich
-      url: https://ethz.ch/en.html
+      institution: '[ETH Zurich]{{< ref "https://ethz.ch/en.html" >}}'
       year: ""
     - course: BSc in Physics
       institution: Fudan University
