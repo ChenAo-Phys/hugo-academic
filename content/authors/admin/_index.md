@@ -10,6 +10,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ChenAo-Phys
+  - display:
+      header: false
+    icon_pack: ai
+    icon: CV
+    link: https://aochen.netlify.app/uploads/aochen_cv.pdf
 organizations:
   - name: ETH Zurich
     url: https://ethz.ch/en.html
