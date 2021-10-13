@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2021-08"
+  date_start: "2021-08-01"
   description: ""
   organization: ETH Zurich
   organization_url: https://ethz.ch/en.html
