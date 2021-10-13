@@ -29,16 +29,16 @@ experience:
     location: Tokyo, Japan
     date_start: '2018-06-01'
     date_end: '2018-08-01'
-    description: Participated in scientific researches in the group of Prof. Yu Chen
+    description: Participated in scientific researches in the group of Prof. Yu Chen.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Exchange Semester
+    company: University of California, Berkeley
+    company_url: https://www.berkeley.edu/
+    company_logo: ""
+    location: California, U.S.
+    date_start: '2018-01-01'
+    date_end: '2018-05-01'
+    description: Studied physics as an exchange student.
 
 design:
   columns: '2'
