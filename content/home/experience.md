@@ -24,20 +24,20 @@ date_format: Jan 2006
 experience:
   - title: Summer Intership Program
     company: University of Tokyo
-    company_url: ''
+    company_url: ""
     company_logo: org-gc
     location: Tokyo, Japan
-    date_start: '2018-06'
-    date_end: '2018-8'
+    date_start: "2018-06"
+    date_end: "2018-8"
     description: Participated in scientific researches in the group of Prof. Yu Chen.
         
   - title: Exchange semester
     company: University of California, Berkeley
-    company_url: ''
+    company_url: ""
     company_logo: org-x
     location: California, U.S.
-    date_start: '2018-01'
-    date_end: '2018-05'
+    date_start: "2018-01"
+    date_end: "2018-05"
     description: Studied physics as an exchange student.
 
 design:
