@@ -4,6 +4,7 @@ role: Master student
 bio: ""
 interests:
   - abc
+  - def
 social:
   - icon: envelope
     icon_pack: fas
