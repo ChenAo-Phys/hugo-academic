@@ -2,7 +2,8 @@
 title: Ao Chen
 role: Master student
 bio: ""
-interests: []
+interests:
+  - abc
 social:
   - icon: envelope
     icon_pack: fas
