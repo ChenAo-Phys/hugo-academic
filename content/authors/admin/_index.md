@@ -35,4 +35,6 @@ highlight_name: true
 ---
 I am a master student studying physics in ETH Zurich. I like to use analytic and computational methods to tackle the problems in physics and in my everyday life.
 
-My research direction is the application of artificial neural networks in quantum many-body systems. My current work focuses on solving the ground state of quantum many-body problem using the neural network quantum state (NQS).
+My research direction is the application of artificial neural networks in quantum many-body problems. My current work focuses on solving the ground state of quantum systems using the neural network quantum state (NQS).
+
+I am currently searching for a PhD position. Please don't hesitate to contact me if you know a possible position suitable for me.
