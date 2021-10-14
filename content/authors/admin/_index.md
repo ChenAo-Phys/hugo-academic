@@ -3,8 +3,9 @@ title: Ao Chen
 role: Master student
 bio: ""
 interests:
-  - abc
-  - def
+  - Computational physics
+  - Quantum many-body system
+  - Machine learning
 social:
   - icon: envelope
     icon_pack: fas
