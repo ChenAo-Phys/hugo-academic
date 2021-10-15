@@ -3,7 +3,7 @@ widget: portfolio
 widget_id: FigureCollection
 headless: true
 weight: 100
-title: Figure Collection
+title: Figure Collections
 subtitle: ""
 content:
   page_type: project
