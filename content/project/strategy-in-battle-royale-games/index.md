@@ -3,6 +3,8 @@ title: Strategy in battle royale games
 date: 2021-10-15T19:49:40.086Z
 draft: false
 featured: false
+url_pdf: /uploads/Strategy_Battle_Royale.pdf
+url_slides: https://polybox.ethz.ch/index.php/s/JtLuqk69wtvRSZA
 image:
   filename: featured.png
   focal_point: Smart
