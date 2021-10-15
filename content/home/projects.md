@@ -11,8 +11,8 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: NQS
-      tag: NQS
+    - name: Quantum
+      tag: Quantum
     - name: Complex System
       tag: ComplexSystem
     - name: Other
