@@ -26,4 +26,4 @@ url_video: ""
 slides: example
 ---
 
-See the [link]{{< ref "period.gif" >}} here for gif animation.
+See the link.
