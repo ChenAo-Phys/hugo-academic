@@ -16,7 +16,7 @@ content:
     - name: Statistical Physics
       tag: Statistical
     - name: Other
-      tag: Demo
+      tag: Other
 design:
   columns: "2"
   view: 2
