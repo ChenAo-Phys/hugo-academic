@@ -25,9 +25,8 @@ abstract: "We use a sign network with discrete output values (+-1) to express
 draft: false
 featured: true
 image:
-  filename: energy6x6.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   alt_text: ""
   caption: Energy error in 6x6 Heisenberg model with insets showing sign network
     weights in 6x6 and 10x10 lattices
