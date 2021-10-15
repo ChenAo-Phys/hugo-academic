@@ -15,4 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The sign network expresses the Marshall sign rule for small J2 and the stripe sign rule for large J2, which greatly improves the accuracy of the variational quantum state expressed by the neural network.
+The sign network expresses the Marshall sign rule for small J2 and the stripe sign rule for large J2, which greatly improves the accuracy of neural network quantum states on the square lattice.
