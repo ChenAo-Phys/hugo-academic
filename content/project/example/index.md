@@ -28,4 +28,4 @@ url_video: ""
 slides: example
 ---
 
-See the {{% staticref "uploads/period.gif" %}}link{{% /staticref %}} here for gif animation. Each site has three possible states -- proliferative (red), quiescent (grey) and dead/vacant (white). The system undergoes periodic oscillations within a specific parameter range.
+See the {{% staticref "uploads/period.gif" %}}link{{% /staticref %}} here for gif animation. Each site has three possible states -- proliferative (red), quiescent (grey) and dead/vacant (white). The interaction between sites are controlled by a few parameters. The system undergoes periodic oscillations within a specific parameter range.
