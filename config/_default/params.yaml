@@ -35,6 +35,10 @@ coordinates:
 directions: ""
 appointment_url: ""
 contact_links:
+  - icon: weixin
+    icon_pack: fab
+    name: AOC
+    link: https://aochen.netlify.app/uploads/WeChat.jpg
   - icon: whatsapp
     icon_pack: fab
     name: +41-788573949
