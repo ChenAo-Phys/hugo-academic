@@ -1,7 +1,5 @@
 ---
-abstract: abstract here
-slides: example
-url_pdf: ""
+title: Broken-Symmetry Ground States of the Heisenberg model on the Pyrochlore Lattice
 publication_types:
   - "3"
 authors:
@@ -13,27 +11,29 @@ authors:
   - Mark H. Fischer
   - Giuseppe Carleo
   - and Titus Neupert
-author_notes: []
-publication: arXiv
-summary: ""
-url_dataset: ""
-url_project: ""
 publication_short: arXiv
-url_source: ""
-url_video: ""
-title: Broken-Symmetry Ground States of the Heisenberg model on the Pyrochlore Lattice
-doi: ""
+abstract: abstract here
+draft: false
 featured: false
 tags: []
-projects:
-  - example
+slides: ""
+url_pdf: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: ""
+publication: arXiv
+projects: []
 date: 2021-10-14T09:56:01.787Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
