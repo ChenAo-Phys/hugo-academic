@@ -9,9 +9,7 @@ date: "2018-08-01T00:00:00Z"
 external_link: ""
 
 links:
-- icon: book-open
-  icon_pack: fas
-  name: gif
+- name: gif
   url: /uploads/period.gif
 - icon: book-open
   icon_pack: fas
