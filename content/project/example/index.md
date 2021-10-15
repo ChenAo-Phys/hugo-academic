@@ -11,6 +11,10 @@ external_link: ""
 links:
 - icon: book-open
   icon_pack: fas
+  name: gif
+  url: /uploads/period.gif
+- icon: book-open
+  icon_pack: fas
   name: paper
   url: /publication/homeostasis-and-systematic-ageing-as-non-equilibrium-phase-transitions-in-computational-multicellular-organizations/
 url_code: ""
