@@ -1,5 +1,5 @@
 ---
-title: Oscillatory behavior in cell simulation
+title: Oscillating behavior in cell simulation
 summary: ""
 tags:
 - ComplexSystem
@@ -26,4 +26,4 @@ url_video: ""
 slides: example
 ---
 
-See the {{% staticref "uploads/period.gif" %}}link{{% /staticref %}} here for gif animation.
+See the {{% staticref "uploads/period.gif" %}}link{{% /staticref %}} here for gif animation. Each site has three possible states -- proliferative (red), quiescent (grey) and dead/vacant (white). The system undergoes periodic oscillations within a specific parameter range.
