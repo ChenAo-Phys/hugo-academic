@@ -32,5 +32,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+url_pdf: https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.190012
 date: 2019-07-09T22:35:00.000Z
 ---
