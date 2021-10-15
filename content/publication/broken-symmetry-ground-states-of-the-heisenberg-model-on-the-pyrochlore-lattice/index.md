@@ -14,8 +14,7 @@ authors:
 publication: ""
 publication_short: ""
 abstract: >-
-  The spin-1/2 Heisenberg model on the pyrochlore lattice is an iconic
-  frustrated three-dimensional
+  The spin-1/2 Heisenberg model on the pyrochlore lattice is an iconic frustrated three-dimensional
 
   spin system with a rich phase diagram. Besides hosting several ordered phases, the model is debated
 
@@ -48,5 +47,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+url_pdf: https://arxiv.org/pdf/2101.08787.pdf
 date: 2021-10-15T09:57:20.747Z
 ---
