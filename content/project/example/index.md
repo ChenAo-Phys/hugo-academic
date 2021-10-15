@@ -26,4 +26,4 @@ url_video: ""
 slides: example
 ---
 
-See the link.
+See the {{% staticref "uploads/period.gif" %}}link{{% /staticref %}} here for gif animation.
