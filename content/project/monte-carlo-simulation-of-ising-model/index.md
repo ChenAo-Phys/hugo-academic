@@ -4,7 +4,7 @@ date: 2018-01-01T20:40:00.000Z
 draft: false
 featured: false
 tags:
-  - ComplexSystem
+  - Statistical
 links:
   - url: uploads/Metropolis.gif
     name: gif
