@@ -31,5 +31,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+url_pdf: https://aochen.netlify.app/uploads/MasterThesis.pdf
+url_slides: https://polybox.ethz.ch/index.php/s/Yoj72cI9xdm4Ccn
 date: 2020-09-28T15:32:55.502Z
 ---
