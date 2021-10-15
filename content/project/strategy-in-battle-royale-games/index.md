@@ -4,7 +4,7 @@ date: 2021-07-30T19:49:40.086Z
 draft: false
 featured: false
 tags:
-  - Demo
+  - Other
 image:
   filename: featured.png
   focal_point: Smart
