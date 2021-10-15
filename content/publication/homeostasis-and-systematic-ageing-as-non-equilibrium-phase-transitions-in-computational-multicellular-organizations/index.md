@@ -8,6 +8,9 @@ authors:
   - Ao Chen
   - Erika Yoshida
   - and Yu Chen
+doi: 10.1098/rsos.190012
+publication: Royal Society Open Science
+publication_short: R. Soc. Open Sci.
 abstract: Being a fatal threat to life, the breakdown of homeostasis in tissues
   is believed to involve multiscale factors ranging from the accumulation of
   genetic damages to the deregulation of metabolic processes. Here, we present a
@@ -27,11 +30,11 @@ abstract: Being a fatal threat to life, the breakdown of homeostasis in tissues
   the fundamental nature of cell biology regarding the physics of some
   non-equilibrium processes instead of subcellular details.
 draft: false
+url_pdf: https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.190012
 featured: false
 image:
-  filename: featured
+  filename: period.gif
   focal_point: Smart
   preview_only: false
-url_pdf: https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.190012
 date: 2019-07-09T22:35:00.000Z
 ---
