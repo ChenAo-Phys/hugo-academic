@@ -12,7 +12,7 @@ links:
 - icon: book-open
   icon_pack: fas
   name: paper
-  url: https://aochen.netlify.app/publication/homeostasis-and-systematic-ageing-as-non-equilibrium-phase-transitions-in-computational-multicellular-organizations/
+  url: /publication/homeostasis-and-systematic-ageing-as-non-equilibrium-phase-transitions-in-computational-multicellular-organizations/
 url_code: ""
 url_pdf: ""
 url_slides: ""
