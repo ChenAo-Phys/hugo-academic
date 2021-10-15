@@ -27,6 +27,9 @@ featured: true
 image:
   filename: energy6x6.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
+  alt_text: ""
+  caption: Energy error in 6x6 Heisenberg model with insets showing sign network
+    weights in 6x6 and 10x10 lattices
 date: 2021-10-15T10:08:01.560Z
 ---
