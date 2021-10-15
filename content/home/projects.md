@@ -13,7 +13,7 @@ content:
       tag: "*"
     - name: NQS
       tag: NQS
-    - name: NQS
+    - name: Complex System
       tag: ComplexSystem
     - name: Other
       tag: Demo
