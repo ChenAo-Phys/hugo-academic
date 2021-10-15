@@ -11,8 +11,10 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: NQS
+      tag: NQS
+    - name: NQS
+      tag: ComplexSystem
     - name: Other
       tag: Demo
 design:
