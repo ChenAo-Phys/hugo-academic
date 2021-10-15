@@ -39,6 +39,14 @@ item:
   organization_url: https://www.fudan.edu.cn/en/
   title: Chinese National Scholarship
   url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2012-08-01"
+  description: ""
+  organization: Administration of Sports of Fuzhou
+  organization_url: ""
+  title: Men's Football Championship in the 23rd Games of Fuzhou City
+  url: ""
 
 design:
   columns: '2' 
