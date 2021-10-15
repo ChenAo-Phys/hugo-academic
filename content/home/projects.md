@@ -11,10 +11,10 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Quantum
+    - name: Quantum Physics
       tag: Quantum
-    - name: Complex System
-      tag: ComplexSystem
+    - name: Statistical Physics
+      tag: Statistical
     - name: Other
       tag: Demo
 design:
