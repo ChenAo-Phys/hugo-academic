@@ -14,4 +14,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A two-layer autoregressive network is used for solving the ground state of 1D transverse field Ising model and 1D hard core Bose-Hubbard model.
+A two-layer autoregressive network is used for solving the ground state of 1D transverse field Ising model and 1D hard core Bose-Hubbard model. The insets show the relative error of energy.
