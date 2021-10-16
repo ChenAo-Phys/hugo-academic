@@ -1,6 +1,7 @@
 ---
 title: Ao Chen 陈骜
 role: Master student
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Computational physics
