@@ -8,6 +8,7 @@ external_link: ""
 url_slides: ""
 title: Oscillating behavior in cell simulation
 tags:
+  - Favorite
   - Statistical
 links:
   - name: gif
