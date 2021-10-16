@@ -4,6 +4,7 @@ date: 2021-10-15T19:24:44.208Z
 draft: false
 featured: false
 tags:
+  - Favorite
   - Quantum
 links:
   - url: /publication/neural-network-evolution-strategy-for-solving-quantum-sign-structures/
