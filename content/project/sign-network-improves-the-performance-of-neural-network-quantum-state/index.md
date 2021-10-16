@@ -1,5 +1,5 @@
 ---
-title: Sign network improves the performance of neural network quantum state
+title: Sign network
 date: 2021-10-15T19:24:44.208Z
 draft: false
 featured: false
