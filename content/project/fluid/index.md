@@ -11,6 +11,7 @@ links:
     name: gif:chain
   - url: uploads/fluid_cluster.gif
     name: gif:cluster
+url_slides: https://polybox.ethz.ch/index.php/s/obx0gfyzG3IcwVS
 image:
   filename: featured
   focal_point: Smart
