@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - Featured
-  - Other
+  - Quantum
 links:
   - url: https://polybox.ethz.ch/index.php/s/LvrHlRXDj7lp9sk
     name: Slides
