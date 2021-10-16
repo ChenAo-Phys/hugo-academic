@@ -5,6 +5,8 @@ draft: false
 featured: false
 tags:
   - Other
+url_pdf: /uploads/Strategy_Battle_Royale.pdf
+url_slides: https://polybox.ethz.ch/index.php/s/JtLuqk69wtvRSZA
 image:
   filename: featured.png
   focal_point: Smart
