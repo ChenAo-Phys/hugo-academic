@@ -11,6 +11,8 @@ content:
   filter_button:
     - name: All
       tag: "*"
+    - name: Favorite
+      tag: Favorite
     - name: Quantum Physics
       tag: Quantum
     - name: Statistical Physics
