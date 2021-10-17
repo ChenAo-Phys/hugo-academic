@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: FigureCollection
 headless: true
-weight: 100
+weight: 40
 title: Figures and Animations
 subtitle: ""
 content:
