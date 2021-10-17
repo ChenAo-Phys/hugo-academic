@@ -11,13 +11,9 @@ abstract: >-
   We use a sign network with discrete output values (+-1) to express the sign
   structure of variational wave
 
-  functions. To train the sign network, the evolution strategy (ES) method was introduced to replace the
+  functions. To replace the traditional stochastic reconfiguration (SR) optimization which only applies to networks with continuous outputs, the evolution strategy (ES) optimization is introduced to train the sign network. The sign network trained by ES learns the exact Marshall sign rule in the square-lattice Heisenberg model and
 
-  traditional stochastic reconfiguration (SR) method which only applies to networks with continuous outputs.
-
-  The sign network trained by ES learned the exact Marshall sign rule in the square-lattice Heisenberg model and
-
-  improved the accuracy of variational states in the pyrochlore-lattice Heisenberg model. The paper is still in preparation and will be uploaded to arXiv soon.
+  improves the accuracy of variational states in the pyrochlore-lattice Heisenberg model. The paper is still in preparation and will be uploaded to arXiv soon.
 draft: false
 featured: true
 image:
