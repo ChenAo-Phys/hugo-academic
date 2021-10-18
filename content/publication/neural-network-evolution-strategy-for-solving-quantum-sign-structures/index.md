@@ -8,12 +8,20 @@ authors:
   - Nikita Astrakhantsev
   - and Titus Neupert
 abstract: >-
-  We use a sign network with discrete output values (+-1) to express the sign
-  structure of variational wave
+  Feed-forward neural networks are a novel class of variational wave functions
+  for correlated many-body quantum systems. Here, we propose a specific neural
+  network ansatz suitable for systems with real-valued wave functions. Its
+  characteristic is to encode the all-important rugged sign structure of a
+  quantum wave function in a convolutional neural network with \emph{discrete}
+  output. Its training is achieved through an evolutionary algorithm. We test
+  our variational ansatz and training strategy on two spin-1/2 Heisenberg
+  models, one on the two-dimensional square lattice and one on the
+  three-dimensional pyrochlore lattice. In the former, our ansatz converges with
+  high accuracy to the analytically known sign structures of ordered phases. In
+  the latter, where such sign structures are a priory unknown, we obtain better
+  variational energies than with other neural network states. 
 
-  functions. To replace the traditional stochastic reconfiguration (SR) optimization which only applies to networks with continuous outputs, the evolution strategy (ES) optimization is introduced to train the sign network. The sign network trained by ES learns the exact Marshall sign rule in the square-lattice Heisenberg model and
-
-  improves the accuracy of variational states in the pyrochlore-lattice Heisenberg model. The paper is still in preparation and will be uploaded to arXiv soon.
+  Our results demonstrate the utility of discrete neural networks to solve quantum many-body problems.
 draft: false
 featured: true
 image:
