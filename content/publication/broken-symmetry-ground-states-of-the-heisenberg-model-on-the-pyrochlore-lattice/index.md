@@ -1,7 +1,7 @@
 ---
 title: Broken-Symmetry Ground States of the Heisenberg model on the Pyrochlore Lattice
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Nikita Astrakhantsev
   - Tom Westerhout
@@ -11,10 +11,12 @@ authors:
   - Mark H. Fischer
   - Giuseppe Carleo
   - and Titus Neupert
-publication: ""
-publication_short: ""
+doi: https://doi.org/10.1103/PhysRevX.11.041021
+publication: Physical Review X
+publication_short: Phys. Rev. X
 abstract: >-
-  The spin-1/2 Heisenberg model on the pyrochlore lattice is an iconic frustrated three-dimensional
+  The spin-1/2 Heisenberg model on the pyrochlore lattice is an iconic
+  frustrated three-dimensional
 
   spin system with a rich phase diagram. Besides hosting several ordered phases, the model is debated
 
@@ -42,11 +44,11 @@ abstract: >-
 
   challenging questions about three-dimensional frustrated quantum magnets.
 draft: false
+url_pdf: https://arxiv.org/pdf/2101.08787.pdf
 featured: false
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
-url_pdf: https://arxiv.org/pdf/2101.08787.pdf
 date: 2021-10-15T09:57:20.747Z
 ---
