@@ -23,6 +23,7 @@ abstract: Feed-forward neural networks are a novel class of variational wave
   demonstrate the utility of discrete neural networks to solve quantum many-body
   problems.
 draft: false
+url_pdf: https://arxiv.org/pdf/2111.06411.pdf
 featured: true
 image:
   focal_point: Smart
