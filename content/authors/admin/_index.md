@@ -16,6 +16,11 @@ social:
     link: https://github.com/ChenAo-Phys
   - display:
       header: false
+    link: https://scholar.google.com/citations?user=ZEzFjXsAAAAJ&hl
+    icon_pack: ai
+    icon: google-scholar
+  - display:
+      header: false
     icon_pack: ai
     icon: cv
     link: https://aochen.netlify.app/uploads/aochen_cv.pdf
