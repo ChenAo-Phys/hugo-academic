@@ -1,12 +1,13 @@
 ---
 title: Neural Network Evolution Strategy for Solving Quantum Sign Structures
 publication_types:
-  - "0"
+  - "3"
 authors:
   - Ao Chen
   - Kenny Choo
   - Nikita Astrakhantsev
   - and Titus Neupert
+publication: arXiv
 abstract: Feed-forward neural networks are a novel class of variational wave
   functions for correlated many-body quantum systems. Here, we propose a
   specific neural network ansatz suitable for systems with real-valued wave
@@ -20,8 +21,7 @@ abstract: Feed-forward neural networks are a novel class of variational wave
   the latter, where such sign structures are a priory unknown, we obtain better
   variational energies than with other neural network states. Our results
   demonstrate the utility of discrete neural networks to solve quantum many-body
-  problems. This paper is still in preparation and will be uploaded to arXiv
-  soon.
+  problems.
 draft: false
 featured: true
 image:
