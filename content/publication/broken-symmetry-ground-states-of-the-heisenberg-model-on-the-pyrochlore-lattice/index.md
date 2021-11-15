@@ -44,7 +44,7 @@ abstract: >-
 
   challenging questions about three-dimensional frustrated quantum magnets.
 draft: false
-url_pdf: https://arxiv.org/pdf/2101.08787.pdf
+url_pdf: https://journals.aps.org/prx/pdf/10.1103/PhysRevX.11.041021
 featured: false
 image:
   filename: featured.png
