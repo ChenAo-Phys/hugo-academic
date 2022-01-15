@@ -39,8 +39,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a master student studying physics in ETH Zurich. I like to use analytic and computational methods to tackle problems in physics and in everyday life.
+I am a master student studying physics at ETH Zurich. I like to use analytic and computational methods to tackle problems in physics and in everyday life.
 
-My research direction is the application of artificial neural networks in quantum many-body problems. My current work focuses on solving the ground state of quantum systems using the neural network quantum state (NQS).
-
-I am looking for a PhD position in computational physics. Please feel free to contact me if you know any possible position suitable for me.
+My research direction is the application of artificial neural networks in quantum many-body problems. My current work focuses on solving quantum systems using neural network quantum states (NQS).
