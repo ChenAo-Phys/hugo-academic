@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: aochen@student.ethz.ch
-phone: +41-788573949
+email: chenao.phys@gmail.com
+phone: +49-17685014992
 address:
-  street: Birchstrasse 82
-  city: Zurich
-  region: ZH
-  postcode: '8050'
-  country: Switzerland
-  country_code: CH
+  street: Universitätsstraße 1
+  city: Augsburg
+  region: BY
+  postcode: '86159'
+  country: Germany
+  country_code: DE
 coordinates:
-  latitude: '47.40687'
-  longitude: '8.53664'
+  latitude: '48.33098'
+  longitude: '10.89762'
 directions: ""
 appointment_url: ""
 contact_links:
