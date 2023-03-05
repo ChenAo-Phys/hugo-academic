@@ -1,6 +1,6 @@
 ---
 title: Ao Chen 陈骜
-role: Master student
+role: Ph.D. candidate
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:aochen@student.ethz.ch
+    link: mailto:chenao.phys@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/ChenAo-Phys
@@ -25,13 +25,15 @@ social:
     icon: cv
     link: https://aochen.netlify.app/uploads/aochen_cv.pdf
 organizations:
-  - name: ETH Zurich
-    url: https://ethz.ch/en.html
+  - name: University of Augsburg
 education:
   courses:
-    - course: MSc in Physics (in process)
+    - course: PhD in Physics
+      institution: University of Augsburg
+      year: in process
+    - course: MSc in Physics
       institution: ETH Zurich
-      year: ""
+      year: 2022
     - course: BSc in Physics
       institution: Fudan University
       year: 2019
@@ -39,6 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a master student studying physics at ETH Zurich. I like to use analytic and computational methods to tackle problems in physics and in everyday life.
+I am a PhD candidate studying physics at University of Augsburg. I like to use analytic and computational methods to tackle problems in physics and in everyday life.
 
 My research direction is the application of artificial neural networks in quantum many-body problems. My current work focuses on solving quantum systems using neural network quantum states (NQS).
