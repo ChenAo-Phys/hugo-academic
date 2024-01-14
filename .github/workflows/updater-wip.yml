@@ -8,7 +8,13 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: wowchemy/gh-action-updater@v1
+      - uses: HugoBlox/gh-action-updater@v1
         with:
-          feed-url: https://wowchemy.com/blog/index.xml
+          feed-url: https://hugoblox.com/rss.xml
           readme-section: news
+          branch: main
+    # steps:
+    #   - uses: wowchemy/gh-action-updater@v1
+    #     with:
+    #       feed-url: https://wowchemy.com/blog/index.xml
+    #       readme-section: news
