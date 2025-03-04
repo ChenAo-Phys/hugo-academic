@@ -30,17 +30,17 @@ education:
   courses:
     - course: PhD in Physics
       institution: University of Augsburg
-      year: in process
+      year: 2022-2025
     - course: MSc in Physics
       institution: ETH Zurich
-      year: 2022
+      year: 2019-2022
     - course: BSc in Physics
       institution: Fudan University
-      year: 2019
+      year: 2015-2019
 email: ""
 superuser: true
 highlight_name: true
 ---
-I am a PhD candidate studying physics at University of Augsburg. I like to use analytic and computational methods to tackle problems in physics and in everyday life.
+I am a PhD candidate studying physics at the University of Augsburg. I like to use analytic and computational methods to tackle problems in physics and everyday life.
 
-My research direction is the application of artificial neural networks in quantum many-body problems. My current work focuses on solving quantum systems using neural network quantum states (NQS).
+My research focuses on solving quantum systems using neural network quantum states (NQS).
