@@ -25,7 +25,7 @@ social:
     icon: cv
     link: https://aochen.netlify.app/uploads/aochen_cv.pdf
 organizations:
-  - name: University of Augsburg
+  - name: California Institute of Technology
 education:
   courses:
     - course: PhD in Physics
@@ -41,6 +41,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a PhD candidate studying physics at the University of Augsburg. I like to use analytic and computational methods to tackle problems in physics and everyday life.
-
-My research focuses on solving quantum systems using neural network quantum states (NQS).
+I am a postdoc at Caltech. My research focuses on solving quantum many-body problems using neural quantum states. I believe the emergent expressive power in neural networks can capture the essential degrees of freedom in a wide range of quantum systems.
