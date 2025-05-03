@@ -10,7 +10,7 @@ authors:
   - Ao Chen
   - Mark H. Fischer
   - Giuseppe Carleo
-  - and Titus Neupert
+  - Titus Neupert
 doi: https://doi.org/10.1103/PhysRevX.11.041021
 publication: Physical Review X
 publication_short: Phys. Rev. X
