@@ -20,7 +20,6 @@ abstract: Deep neural quantum states have recently achieved remarkable
 draft: false
 featured: true
 image:
-  filename: ctwf.png
   focal_point: Smart
   preview_only: false
 date: 2025-03-13T20:39:47.035Z
