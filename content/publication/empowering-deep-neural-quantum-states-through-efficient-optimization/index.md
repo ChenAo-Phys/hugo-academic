@@ -26,6 +26,7 @@ abstract: Computing the ground state of interacting quantum matter is a
   quantum many-body problems through the expressive power of large-scale
   artificial neural networks.
 draft: false
+url_slides: "https://docs.google.com/presentation/d/1HY5yto8FaPX5o58eTRmReeBje-fdwVsm/edit?usp=sharing&ouid=108402986309798036356&rtpof=true&sd=true"
 featured: true
 image:
   focal_point: Smart
