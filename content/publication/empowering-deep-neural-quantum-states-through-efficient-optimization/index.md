@@ -28,7 +28,7 @@ abstract: Computing the ground state of interacting quantum matter is a
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: geometry_fig1a_page-0001.jpg
   focal_point: Smart
   preview_only: false
 date: 2024-07-01T16:00:25.794Z
