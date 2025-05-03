@@ -40,7 +40,7 @@ experience:
     date_end: 2018-08-01
 widget_id: Research experience
 headless: true
-weight: 60
+weight: 35
 title: Experience
 subtitle: null
 design:
