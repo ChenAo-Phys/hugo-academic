@@ -30,6 +30,6 @@ image:
   focal_point: Smart
   preview_only: false
   alt_text: ""
-  caption: SR vs. ES
-date: 2025-05-03T15:13:35.238Z
+  caption: ""
+date: 2022-05-02T16:00:00.000Z
 ---
