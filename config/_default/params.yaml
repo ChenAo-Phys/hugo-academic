@@ -21,17 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: chenao.phys@gmail.com
-phone: +49-17685014992
-address:
-  street: Universitätsstraße 1
-  city: Augsburg
-  region: BY
-  postcode: '86159'
-  country: Germany
-  country_code: DE
-coordinates:
-  latitude: '48.33098'
-  longitude: '10.89762'
 directions: ""
 appointment_url: ""
 contact_links:
@@ -39,10 +28,6 @@ contact_links:
     icon_pack: fab
     name: AOC
     link: https://aochen.netlify.app/uploads/WeChat.jpg
-  - icon: whatsapp
-    icon_pack: fab
-    name: +49-17685014992
-    link: https://web.whatsapp.com/
 
 # Site header
 
