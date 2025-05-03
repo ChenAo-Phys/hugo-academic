@@ -38,7 +38,6 @@ abstract: We report neutron scattering, pressure-dependent AC calorimetry, and
 draft: false
 featured: false
 image:
-  filename: triangular_j1j2.png
   focal_point: Smart
   preview_only: false
 date: 2024-06-25T20:33:35.938Z
