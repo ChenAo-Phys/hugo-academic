@@ -1,6 +1,6 @@
 ---
 title: Ao Chen 陈骜
-role: Ph.D. candidate
+role: Postdoc
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -41,4 +41,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a postdoc at Caltech. My research focuses on solving quantum many-body problems using neural quantum states. I believe the emergent expressive power in neural networks can capture the essential degrees of freedom in a wide range of quantum systems.
+My research focuses on solving quantum many-body problems using neural quantum states. I believe the emergent expressive power in deep neural networks can capture the essential degrees of freedom in a wide range of quantum systems.
