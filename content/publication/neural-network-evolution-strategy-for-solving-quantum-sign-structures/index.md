@@ -6,7 +6,7 @@ authors:
   - Ao Chen
   - Kenny Choo
   - Nikita Astrakhantsev
-  - and Titus Neupert
+  - Titus Neupert
 doi: https://doi.org/10.1103/PhysRevResearch.4.L022026
 publication: Physical Review Research
 publication_short: Phys. Rev. Res.
