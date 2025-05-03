@@ -7,7 +7,7 @@ authors:
   - Yuting Lou
   - Ao Chen
   - Erika Yoshida
-  - and Yu Chen
+  - Yu Chen
 doi: 10.1098/rsos.190012
 publication: Royal Society Open Science
 publication_short: R. Soc. Open Sci.
@@ -30,8 +30,6 @@ abstract: Being a fatal threat to life, the breakdown of homeostasis in tissues
   the fundamental nature of cell biology regarding the physics of some
   non-equilibrium processes instead of subcellular details.
 draft: false
-url_pdf: https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.190012
-url_slides: https://polybox.ethz.ch/index.php/s/NlwhpxHCado1y8u
 featured: false
 image:
   filename: period.gif
