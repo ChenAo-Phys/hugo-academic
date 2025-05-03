@@ -9,6 +9,7 @@ authors:
   - and Titus Neupert
 doi: https://doi.org/10.1103/PhysRevResearch.4.L022026
 publication: Physical Review Research
+publication_short: Phys. Rev. Res.
 abstract: Feed-forward neural networks are a novel class of variational wave
   functions for correlated many-body quantum systems. Here, we propose a
   specific neural network ansatz suitable for systems with real-valued wave
