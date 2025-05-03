@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Ao Chen
-  - and Markus Heyl
+  - Markus Heyl
 doi: https://doi.org/10.1038/s41567-024-02566-1
 publication: Nature Physics
 publication_short: Nat. Phys.
@@ -30,5 +30,7 @@ featured: true
 image:
   focal_point: Smart
   preview_only: false
+  alt_text: ""
+  caption: ""
 date: 2024-07-01T16:00:25.794Z
 ---
