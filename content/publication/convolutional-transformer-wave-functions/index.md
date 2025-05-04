@@ -18,7 +18,7 @@ abstract: Deep neural quantum states have recently achieved remarkable
   dynamics compared to previous results, demonstrating promising capacity in
   complex quantum problems.
 draft: false
-featured: true
+featured: false
 image:
   focal_point: Smart
   preview_only: false
