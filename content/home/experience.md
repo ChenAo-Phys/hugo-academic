@@ -24,7 +24,7 @@ experience:
   - title: Master student
     company: Department of Physics, ETH Zurich
     company_url: https://www.phys.ethz.ch/
-    location: Augsburg, Germany
+    location: Zurich, Switzerland
     date_start: 2019-09-01
     date_end: 2022-02-20
   - title: Research Intern
