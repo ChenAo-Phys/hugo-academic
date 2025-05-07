@@ -47,6 +47,7 @@ abstract: >-
 
   in detail, and particular attention is given to symmetry-preserving network architectures.
 
+
   With the help of VMC, MinSR, and symmetry projection, the NQS achieves outstanding
 
   accuracy and outperforms existing numerical methods in several benchmark models
@@ -61,6 +62,7 @@ abstract: >-
 
   leading to a deeper understanding of the emergence of QSL in frustrated magnets.
 
+
   In fermion systems, fermionic mean-field wavefunctions are introduced to combine
 
   with the NQS for efficient expression of fermion sign structures. We then discuss the
@@ -74,6 +76,7 @@ abstract: >-
   predicted by other numerical methods and further observes the possible superconducting
 
   order in the Hubbard model.
+
 
   These findings highlight the immense potential of deep NQSs in quantum many-body
 
