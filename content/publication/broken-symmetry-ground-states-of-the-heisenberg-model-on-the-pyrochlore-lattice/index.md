@@ -1,5 +1,5 @@
 ---
-title: Broken-Symmetry Ground States of the Heisenberg model on the Pyrochlore Lattice
+title: Broken-symmetry ground states of the Heisenberg model on the pyrochlore lattice
 publication_types:
   - "2"
 authors:
